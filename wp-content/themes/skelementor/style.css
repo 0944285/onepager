@@ -32,3 +32,9 @@ html{line-height:1.15}body{margin:0}h1{font-size:2em;margin:.67em 0}b,strong{fon
 .gallery-item a img {display: block; backface-visibility: hidden}
 .gallery-item a:hover img, .gallery-item a:focus img {opacity: 0.6}
 .gallery-caption {display: block; margin-bottom: 0}
+
+.site-title{display: none !important;}
+.entry-title{display: none !important;}
+h1.entry-title{display: none !important;}
+#copyright{display: none !important;}
+.tagline{display: none !important;}
