@@ -78,4 +78,8 @@ Ultra-minimal theme specifically for Elementor and to be as lightweight as possi
 * 23-Mar-2019
 * Add into functions.php: add_post_type_support( 'page', 'excerpt' );
 
+= 1.1.3 =
+* 7-Apr-2021
+* Finished header, team and proces
+
 
